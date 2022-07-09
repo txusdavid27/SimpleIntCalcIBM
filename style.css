@@ -1,0 +1,26 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    color : black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+#div2{
+    position: relative;
+    width: 400px;
+    padding: 50px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    background-color: white;
+    
+}
+
+mark{
+    background-color:yellow;
+   color:black
+ }
+
